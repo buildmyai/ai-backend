@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+from main import app  # <- this is important for gunicorn
+
+
 """
 AI Solutions Backend Startup Script
 """
